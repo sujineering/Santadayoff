@@ -1,0 +1,8 @@
+
+a.start{color: black; margin-left:550px ;
+ background-color: pink;border-radius: 1em;display: block;width: 80px; text-align: center;}
+ body{background-color: black;margin: 20px;text-align: center;background-image: url(images/);}
+ h2{color: white;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     }
+a{text-decoration: none;}
+p{color: lightgrey;}
